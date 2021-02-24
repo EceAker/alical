@@ -81,4 +81,4 @@ require_once(ABSPATH . 'wp-settings.php');
 
     define('FTP_USER', 'test');
     define('FTP_PASS', 'C4lfamily1960.');
-    define('FTP_HOST', 'ftp.alical.com');
+    define('FTP_HOST', 'ftp.alical.com:21');
