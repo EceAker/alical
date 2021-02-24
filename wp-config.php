@@ -78,4 +78,4 @@ if ( !defined('ABSPATH') )
 /** WordPress değişkenlerini ve yollarını kurar. */
 require_once(ABSPATH . 'wp-settings.php');
     
- 
+define('FTP_HOST', 'ftp.alical.com:21');
