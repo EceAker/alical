@@ -78,5 +78,4 @@ if ( !defined('ABSPATH') )
 /** WordPress değişkenlerini ve yollarını kurar. */
 require_once(ABSPATH . 'wp-settings.php');
     
-define('FS_METHOD', 'direct');
-
+ 
