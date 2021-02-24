@@ -78,7 +78,7 @@ if ( !defined('ABSPATH') )
 /** WordPress değişkenlerini ve yollarını kurar. */
 require_once(ABSPATH . 'wp-settings.php');
     
-
+    define('FS_METHOD', 'direct');
     define('FTP_USER', 'test');
     define('FTP_PASS', 'C4lfamily1960.');
     define('FTP_HOST', 'ftp.alical.com:21');
