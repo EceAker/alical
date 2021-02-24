@@ -79,3 +79,6 @@ if ( !defined('ABSPATH') )
 require_once(ABSPATH . 'wp-settings.php');
     
 define('FTP_HOST', 'ftp.alical.com:21');
+    define('FTP_USER', 'kullanıcı adı');
+    define('FTP_PASS', 'parola');
+    define('FTP_HOST', 'ftp.siteadresi.com');
